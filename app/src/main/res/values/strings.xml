@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarPoolingApp</string>
+    <string name="title_activity_signup_page">SignupPage</string>
+    <string name="title_activity_landing_page">LandingPage</string>
+</resources>
